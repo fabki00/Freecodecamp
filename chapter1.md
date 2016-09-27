@@ -13,3 +13,8 @@ You can also access individual elements in the HTML documents using the $ symbol
 ```$(".well").addClass("animated shake")``` will add class *animated* and *shake* to elements of class ```well```. 
 * 
 ```$("#target1").removeClass("animated")``` will remove class *animated* from element with id ```target1```.
+
+ ```$("#target1").css("color", "red");```  change css of an element
+ 
+ ```$("#target1").prop("disabled", true);``` change property of an element (e.g. disable)
+    
