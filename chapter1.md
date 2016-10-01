@@ -17,4 +17,6 @@ You can also access individual elements in the HTML documents using the $ symbol
  ```$("#target1").css("color", "red");```  change css of an element
  
  ```$("#target1").prop("disabled", true);``` change property of an element (e.g. disable)
+ 
+ 
     
