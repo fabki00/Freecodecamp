@@ -28,4 +28,5 @@ You can get feedback on your project by sharing it with your friends on Facebook
 
 Note: In order to open the link in new tab you need to use ```target``` attribute on anchor elements:
 ```<a href="http://wikipedia.org" target="_blank">Wikipedia</a>```
+
 Otherwise links won't be operational since codepen is not following links for security reason. 
