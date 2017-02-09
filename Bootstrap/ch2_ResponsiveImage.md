@@ -1,4 +1,4 @@
-To make image responisve give its element class **img-responsive**
+To make image responisve give its element class `img-responsive`
 
 
 ```
