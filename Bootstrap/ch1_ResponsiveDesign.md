@@ -6,4 +6,4 @@ Add Bootstrap to code by adding to top of HTML:
 ```
 
 
-To get started, we should nest all of our HTML in a **div** element with the class **container-fluid**.
+To get started, we should nest all of our HTML in a `<div>` element with the class `container-fluid`.
