@@ -9,3 +9,11 @@ Bootstrap has its own `<button>` element.
 ```
 <button class="btn btn-block">Submit</button>
 ```
+* The `btn-primary` class is the main color you'll use in your app. 
+```
+<button class="btn btn-block btn-primary">Like</button>
+```
+* buttons can have pre-defined colors for actions; `btn-info` , `btn-danger`
+```
+<button class="btn btn-block btn-info">Info</button>
+```
