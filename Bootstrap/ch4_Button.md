@@ -1,9 +1,10 @@
 Bootstrap has its own `<button>` element.
 * `btn` class makes it as wide as the text it displays
+
 ```
 <button class="btn">Like</button>
 ```
-* `btn-block` class will make it stretch the width of whole page 
+* `btn-block` class will make it stretch the width of whole page; it still needs `btn` class
 
 ```
 <button class="btn btn-block">Submit</button>
