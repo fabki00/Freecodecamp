@@ -7,4 +7,5 @@
 * [Bootstrap](Bootstrap/README.md)
       * [Getting Started](Bootstrap/ch1_ResponsiveDesign.md)
       * [Responsive Image](Bootstrap/ch2_ResponsiveImage.md)
+      * [Center Text](Bootstrap/ch3_CenterText.md)
 
