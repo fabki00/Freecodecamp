@@ -10,3 +10,4 @@
       * [Center Text](Bootstrap/ch3_CenterText.md)
       * [Bootstrap Button](Bootstrap/ch4_Button.md)
       * [Bootstrap Grid](Bootstrap/ch5_Grid.md)
+      * [Font Awesome](Bootstrap/ch6_FontAwesome.md)
